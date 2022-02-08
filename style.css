@@ -1,0 +1,146 @@
+body{
+  background: linear-gradient( to right, rgb(241, 243, 122), rgb(120, 231, 98))
+}
+h2{
+  background: linear-gradient( to right, rgb(241, 243, 122), rgb(120, 231, 98)) ;
+}
+section{
+  background-color: azure;
+  border: 1px solid red;
+  margin-top: 10px;
+  padding: 10px;
+  width: 350px;
+  height: 220px;
+  display: inline-block;
+  border-radius: 5px;
+}
+#a{
+  border: 1px dashed black;
+}
+#b{
+  border: 1px dashed blue;
+}
+#c{
+  border: 1px dashed green;
+}
+#d{
+  border: 1px solid black;
+}
+#e{
+  border: 1px solid blue;
+}
+#f{
+  border: 1px solid green;
+}
+#g{
+  border: 1px dashed rgb(201, 80, 80) ;
+}
+#h{
+  border: 1px dashed rgb(149, 45, 163) 
+}
+#i{
+  border: 1px dashed rgb(58, 83, 196) 
+}
+#j{
+  border: 2px solid rgb(201, 80, 80) 
+}
+#k{
+  border: 2px solid rgb(180, 24, 50) 
+}
+#l{
+  border: 2px solid rgb(49, 0, 228) 
+}
+#m{
+  border: 2px dashed rgb(33, 230, 203) 
+}
+#n{
+  border: 2px dashed rgb(82, 8, 24) 
+}
+
+#o{
+  border: 2px dashed rgb(45, 163, 35) 
+}
+
+#p{
+  border: 2px dashed rgb(214, 64, 114) 
+}
+
+#q{
+  border: 2px dashed rgb(150, 114, 207) 
+}
+
+#r{
+  border: 2px dashed rgb(40, 56, 100) 
+}
+
+#s{
+  border: 2px dashed rgb(223, 167, 116) 
+}
+
+#t{
+  border: 2px dashed rgb(219, 71, 12) 
+}
+
+#u{
+  border: 2px solid rgb(133, 49, 121) 
+}
+
+#v{
+  border: 2px solid rgb(95, 109, 107) 
+}
+
+#x{
+  border: 2px solid rgb(39, 105, 59) 
+}
+#w{
+  border: 2px dashed rgb(145, 100, 48) 
+}
+#y{
+  border: 3px dashed rgb(32, 68, 66) 
+}
+#z{
+  border: 3px dashed rgb(102, 6, 70) 
+}
+#zz{
+  border: 0.5px dashed rgb(230, 33, 33) 
+}
+
+
+
+
+
+
+#capitais{
+  margin-right : 100px;
+  margin-left: 100px;
+}
+
+h2{
+  border: 1px black;
+  text-align: center;
+  word-break: normal;
+  padding: 2px;
+}
+p {
+  text-align: right;
+}
+.h1{
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+img{
+  border: 2px solid black;
+  max-width: 150px;
+  max-height: 90px;
+  width: auto;
+  height: auto;
+}
+.img{
+  max-width: 150px;
+  max-height: 90px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+
